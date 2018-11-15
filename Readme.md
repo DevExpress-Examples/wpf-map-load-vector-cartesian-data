@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/CartesianMaps/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CartesianMaps/MainWindow.xaml))**
+<!-- default file list end -->
 # Lesson 2 - Load vector Cartesian data
 
 
