@@ -3,16 +3,19 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T230190)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Map for WPF - Load a Vector Cartesian Map
+
+The example shows how to create a simple map application that draws vector data using [Cartesian coordinates](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).
+
+![Map](./images/map.png)
+
+## Files to Review
 
 * [MainWindow.xaml](./CS/MapLesson2/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapLesson2/MainWindow.xaml))
-<!-- default file list end -->
-# Lesson 2 - Load vector Cartesian data
 
+## Documentation
 
-This example represents the complete solution for the <strong>Getting Started Lesson 2 - Load a Vector Cartesian Map</strong> topic.
-
-<br/>
-
-
+* [Lesson 2 - Load a Vector Cartesian Map](https://docs.devexpress.com/WPF/113939/controls-and-libraries/map-control/getting-started/lesson-2-load-a-vector-cartesian-map)
+* [How to: Load a Vector Cartesian Map](https://docs.devexpress.com/WPF/113976/controls-and-libraries/map-control/examples/vector-data/customize-data-appearance/how-to-load-a-vector-cartesian-map)
+* [Map Coordinate Systems](https://docs.devexpress.com/WPF/113959/controls-and-libraries/map-control/coordinate-systems/map-coordinate-systems)
