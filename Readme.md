@@ -21,7 +21,7 @@ The example shows how to create a simple map application that draws vector data 
 * [How to: Load a Vector Cartesian Map](https://docs.devexpress.com/WPF/113976/controls-and-libraries/map-control/examples/vector-data/customize-data-appearance/how-to-load-a-vector-cartesian-map)
 * [Map Coordinate Systems](https://docs.devexpress.com/WPF/113959/controls-and-libraries/map-control/coordinate-systems/map-coordinate-systems)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-load-vector-cartesian-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-load-vector-cartesian-data&~~~was_helpful=no)
 
